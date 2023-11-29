@@ -1,0 +1,10 @@
+
+j	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•Ûì
+i	java:S116
+"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šø´¯
+q	java:S116"WRename this field "phone_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœùÿÿÿÿ
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡è±{
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìşæ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İí‚Æùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìò—
